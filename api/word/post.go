@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"encoding/json"
-	"github.com/4Tune-Light/test-3/controllers/word/test1"
+	"../../controllers/word/test1"
 )
 
 type wordType struct {

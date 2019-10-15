@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"github.com/4Tune-Light/test-3/api/word"
+	"./api/word"
 )
 
 func main() {
